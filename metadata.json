@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack",
+  "description": "An application to help users search for foods and view their calories and nutritional information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
